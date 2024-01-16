@@ -21,4 +21,4 @@ subprocess.call(["ifconfig", interface, "hw", "ether", new_mac])
 subprocess.call(["ifconfig", interface, "up"])
 
 #nuraddinr7 (github)
-#nureddinr7 (insta)
+#nureddinr7 (instagram)
