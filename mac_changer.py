@@ -19,3 +19,6 @@ print("[+] Changing Mac address for " + interface + " to " + new_mac)
 subprocess.call(["ifconfig", interface, "down"])
 subprocess.call(["ifconfig", interface, "hw", "ether", new_mac])
 subprocess.call(["ifconfig", interface, "up"])
+
+#nuraddinr7 (github)
+#nureddinr7 (insta)
